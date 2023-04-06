@@ -1,3 +1,10 @@
+## please use the new file as it is formatted better and aso contains the stock symbol
+##output:
+
+![image](https://user-images.githubusercontent.com/124582454/230312182-8404ebe4-9d5a-4873-ad9a-5acb733ba1bc.png)
+
+
+
 # historical-stock-price-simulator-in
 ```
 #include <stdio.h>
